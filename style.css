@@ -54,7 +54,7 @@ body {
 }
 .searchsection .searchbar .icons .i-box i {
   font-size: 50px;
-  color: rgb(92, 187, 84);
+  color: #1b3022;
 }
 .searchsection .searchbar .icons .i-box .dots {
   height: 22px;
@@ -90,7 +90,7 @@ body {
 }
 .searchsection .searchbutton {
   margin-top: 65px;
-  background-color: rgb(92, 187, 84);
+  background-color: #1b3022;
   border-radius: 100px;
   display: flex;
   color: #f6f6f6;
@@ -160,7 +160,7 @@ body {
   font-weight: bold;
 }
 .results .person .info .top .price {
-  color: rgb(92, 187, 84);
+  color: #1b3022;
   font-weight: bold;
   margin-right: 25px;
 }
@@ -191,9 +191,9 @@ body {
 .bottom-buttons .button:not(:first-child) {
   margin-left: 20px;
 }
-.bottom-buttons .button:nth-child(1) {
-  color: rgb(92, 187, 84);
-  background-color: rgba(92, 187, 84, 0.2);
+.bottom-buttons .button:nth-child(2) {
+  color: #1b3022;
+  background-color: rgba(27, 48, 34, 0.2);
   border-radius: 1000px;
 }
 .bottom-buttons .button {

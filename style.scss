@@ -5,9 +5,11 @@
 }
 
 
-$accent: rgb(92, 187, 84);
+$accent: #1b3022;
 $rideraccent: rgb(92, 187, 84);
 $driveraccent: #f36f2e;
+$t: #395756;
+
 
 
 body {
@@ -269,7 +271,7 @@ body {
     margin-left: 20px;
   }
 
-  .button:nth-child(1) {
+  .button:nth-child(2) {
     color: $accent;
     background-color: rgba($accent, 0.2);
     border-radius: 1000px;
